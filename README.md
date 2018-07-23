@@ -36,11 +36,11 @@
 
 ## JavaScript
 
-- 基础
+- [基础](https://ninghao.net/course/1235)
 
-- 新功能
+- [新功能](https://ninghao.net/course/3032)
 
-- jQuery
+- [jQuery](https://ninghao.net/course/1295)
 
 
 # [Sass](https://ninghao.net/course/2094)
@@ -508,13 +508,13 @@
 
 ## [邮件验证](https://ninghao.net/course/6173)
 
-## 国际化
+## [国际化](https://ninghao.net/course/6190)
 
-## WebSocket
+## [WebSocket](https://ninghao.net/course/6212)
 
-## 重构与改进 #3
+## [重构与改进 #3](https://ninghao.net/course/6230)
 
-## 自动化测试
+## [自动化测试](https://ninghao.net/course/6250)
 
 
 # Rails 5：Web 应用框架
@@ -537,20 +537,20 @@
   （基于 Node.js）
 
 
-## [支付宝：电脑与手机网站支付](https://ninghao.net/course/5889)
+## [电脑与手机网站支付](https://ninghao.net/course/5889)
 
 
 # 微信支付  
   （基于 Node.js）
 
 
-## 扫码支付
+## [扫码支付](https://ninghao.net/course/5726)
 
-## 公众号支付
+## [H5 移动端支付](https://ninghao.net/course/5760)
 
-## H5 移动端支付
+## [公众号支付](https://ninghao.net/course/5780)
 
-## 小程序支付
+## [小程序支付](https://ninghao.net/course/5794)
 
 
 # Node.js 应用开发（第二季）
